@@ -22,5 +22,5 @@ Instructions For Game Play:
 
 Please Do Not:
 - Enter invalid input
-  - If asked to enter X or O, don't enter anything else. Lowercase x or O is fine but you will be booted from the game if you make too many invalid entries
-  - The same goes for coordinates and whether or not you'd like to keep playing
+  - If asked to enter X or O, don't enter anything else. Lowercase x or o is fine but you will be booted from the game if you make too many invalid entries
+  - The same goes for coordinates and whether or not you'd like to keep playing (but again, it's not a case sensitive program so don't worry about that)
